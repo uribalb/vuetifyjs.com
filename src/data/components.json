@@ -608,7 +608,8 @@
     "components": ["v-textarea"],
     "examples": [
       "multiLine",
-      "autoGrow"
+      "autoGrow",
+      { "file": "signupBox", "newIn": "1.1" }
     ],
     "spec": false
   },
