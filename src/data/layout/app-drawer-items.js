@@ -114,6 +114,7 @@ export default [
       { name: 'menus', title: 'Menus' },
       { name: 'navigation-drawers', title: 'Navigation drawers' },
       { name: 'paginations', title: 'Paginations' },
+      { name: 'paper', title: 'Paper' },
       { name: 'parallax', title: 'Parallax' },
       {
         title: 'Pickers',
