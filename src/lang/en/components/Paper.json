@@ -5,6 +5,10 @@
     "usage": {
       "header": "Usage",
       "desc": ""
+    },
+    "flexible": {
+      "header": "Custom implementations",
+      "desc": "Utilizing the paper component and the built in helper classes, you can easily create your own custom designs in no time."
     }
   },
   "props": {

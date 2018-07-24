@@ -432,7 +432,8 @@
   "paper": {
     "components": ["v-paper"],
     "examples": [
-      "usage"
+      "usage",
+      "flexible"
     ],
     "spec": false
   },
