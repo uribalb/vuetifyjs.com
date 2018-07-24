@@ -6,5 +6,8 @@
       "header": "Usage",
       "desc": ""
     }
+  },
+  "props": {
+    "tag": "Mixins.Routable.props.tag"
   }
 }

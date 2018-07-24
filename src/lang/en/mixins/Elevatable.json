@@ -1,0 +1,5 @@
+{
+  "props": {
+    "elevation": "Apply a custom elevation to the element, Values 0 through 24"
+  }
+}

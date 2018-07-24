@@ -5,6 +5,7 @@ import Comparable from './Comparable'
 import DataIterable from './DataIterable'
 import Delayable from './Delayable'
 import Detachable from './Detachable'
+import Elevatable from './Elevatable'
 import Filterable from './Filterable'
 import Loadable from './Loadable'
 import Menuable from './Menuable'
@@ -25,6 +26,7 @@ export default {
   DataIterable,
   Delayable,
   Detachable,
+  Elevatable,
   Filterable,
   Loadable,
   Menuable,
