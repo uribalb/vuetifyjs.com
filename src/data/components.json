@@ -674,6 +674,22 @@
     ],
     "spec": false
   },
+  "timelines": {
+    "components": ["v-timeline"],
+    "examples": [
+      "usage",
+      "small",
+      "icons",
+      "color",
+      "iconColor",
+      "position",
+      "slot",
+      "dense",
+      "alert",
+      "advanced"
+    ],
+    "spec": false
+  },
   "time-pickers": {
     "components": ["v-time-picker"],
     "examples": [
