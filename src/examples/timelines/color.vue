@@ -30,7 +30,7 @@
         gradient="to top, rgba(0,0,0,.44), rgba(0,0,0,.44)"
       >
         <v-container fill-height>
-          <v-layout>
+          <v-layout align-center>
             <strong class="display-4 font-weight-regular mr-4">8</strong>
             <v-layout column justify-end>
               <div class="headline font-weight-light">Monday</div>
@@ -49,7 +49,7 @@
           color="pink"
           small
         >
-          <v-layout>
+          <v-layout pt-3>
             <v-flex xs3>
               <strong>5pm</strong>
             </v-flex>
@@ -64,7 +64,7 @@
           color="teal lighten-3"
           small
         >
-          <v-layout wrap>
+          <v-layout wrap pt-3>
             <v-flex xs3>
               <strong>3-4pm</strong>
             </v-flex>
@@ -95,7 +95,7 @@
           color="pink"
           small
         >
-          <v-layout>
+          <v-layout pt-3>
             <v-flex xs3>
               <strong>12pm</strong>
             </v-flex>
@@ -109,7 +109,7 @@
           color="teal lighten-3"
           small
         >
-          <v-layout>
+          <v-layout pt-3>
             <v-flex xs3>
               <strong>9-11am</strong>
             </v-flex>

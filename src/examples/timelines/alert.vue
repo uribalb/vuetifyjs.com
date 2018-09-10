@@ -20,7 +20,10 @@
     </v-card-title>
     <v-card-text class="py-0">
       <v-timeline dense>
-        <v-slide-y-transition hide-on-leave group>
+        <v-slide-x-reverse-transition
+          group
+          hide-on-leave
+        >
           <v-timeline-item
             v-for="item in items"
             :key="item.id"
@@ -36,7 +39,7 @@
               Lorem ipsum dolor sit amet, no nam oblique veritus. Commune scaevola imperdiet nec ut, sed euismod convenire principes at. Est et nobis iisque percipit, an vim zril disputando voluptatibus, vix an salutandi sententiae.
             </v-alert>
           </v-timeline-item>
-        </v-slide-y-transition>
+        </v-slide-x-reverse-transition>
       </v-timeline>
     </v-card-text>
   </v-card>
