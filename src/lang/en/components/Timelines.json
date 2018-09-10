@@ -1,4 +1,9 @@
 {
   "header": "Timelines",
-  "headerText": "The `v-timeline` is useful for stylistically displaying chronological information."
+  "headerText": "The `v-timeline` is useful for stylistically displaying chronological information.",
+  "examples": {
+    "usage": {
+      "desc": ""
+    }
+  }
 }
